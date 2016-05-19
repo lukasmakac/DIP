@@ -1,0 +1,12 @@
+Retina diseases detector
+------------------------
+
+Author: Lukáš Maruniak
+Property of: FIT VUT Brno
+
+-------------------------
+
+Compile:    mvn install
+Run:        java -Djava.library.path=.\natives -jar retina-fx-1.0-SNAPSHOT.jar
+
+==========================
